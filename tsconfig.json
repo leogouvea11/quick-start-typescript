@@ -12,15 +12,11 @@
     "noUnusedLocals": false,
     "noUnusedParameters": false,
     "strict": true,
-    "types": ["node", "jest"],
-    "baseUrl": ".",
-    "paths": {
-      "@mutual/*": ["./libs/*"]
-    }
+    "types": ["node"],
+    "baseUrl": "."
   },
   "include": [
-    "./type-overrides.d.ts",
-    "./libs/**/*.ts"
+    "./src"
   ],
   "exclude": [
     "node_modules"
