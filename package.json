@@ -1,6 +1,6 @@
 {
-  "name": "teste_ts",
-  "version": "1.0.0",
+  "name": "quick_start_typescript",
+  "version": "1.2.0",
   "description": "",
   "main": "app.js",
   "scripts": {
